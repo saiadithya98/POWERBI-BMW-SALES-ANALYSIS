@@ -99,25 +99,6 @@ This enables customized analysis for deeper insights.
 
 ---
 
-## 📷 Dashboard Preview
-
-"C:\Users\SAI ADITHYA\OneDrive\Pictures\Screenshots\Screenshot 2026-02-19 120706.png"
-
----
-
-## 📂 Repository Contents
-
-```
-BMW-Sales-Dashboard/
-│
-├── BMW_Sales_Dashboard.pbix
-├── dashboard.png
-├── dataset.csv
-└── README.md
-```
-
----
-
 ## 💼 Business Value
 
 This dashboard helps decision-makers:

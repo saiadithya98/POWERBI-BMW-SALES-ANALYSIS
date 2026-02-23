@@ -101,7 +101,7 @@ This enables customized analysis for deeper insights.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+"C:\Users\SAI ADITHYA\OneDrive\Pictures\Screenshots\Screenshot 2026-02-19 120706.png"
 
 ---
 
